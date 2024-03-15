@@ -43,7 +43,6 @@ In my free time I like to learn new technologies and stay updated in the world o
 <p align="center">
   <a href="https://github.com/anxxt">
     <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anxxt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </br>
     <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anxxt&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
